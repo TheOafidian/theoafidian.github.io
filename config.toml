@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "theoafidian.github.io/"
 languageCode = "en-us"
 title = "Homebrewing with the Oaf"
 theme = 'hugo-theme-ava'

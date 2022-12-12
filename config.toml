@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Homebrewing with the Oaf"
+theme = 'hugo-theme-ava'
+mainSections = "batches"
+enableEmoji = true
+
+[params.meta_tags]
+          meta_og_image = "https://images.unsplash.com/photo-1582363476910-3223e5fd0b32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1415&q=80"
+[[menu.main]]
+    name = "Batches"
+    url = "/batches"
+    weight = 1
+
+[[menu.main]]
+    name = "Tools"
+    url = "/tools/"
+    weight = 2

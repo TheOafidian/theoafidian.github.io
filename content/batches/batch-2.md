@@ -15,7 +15,14 @@ description: "A first try at recreating something resembling the legendary pils.
 
 ## Brewing
 
-### Concoction
+### Decoction
+
+Decoction is a process where part of the mash is separated from the larger part and boiled. 
+This process was traditionally repeated 3-4 or more times and helped to get the most out of the malt. 
+Due to the quality of modern malt, this process is no longer frequently used (by some even considered a waste of time and energy). 
+To brew a Czech pils however, it would be a shame to forego this process.
+
+Therefore in this recipe a single decoction was performed, to honour the tradition and hopefully enrich the flavour of the malt. 
 
 ### Brew schedule
 

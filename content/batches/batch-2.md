@@ -42,6 +42,8 @@ The brew was cooled to around 25°C, by letting the cooking pot stand in a bath 
 - Specific gravity measured: 1.048
 - Alcohol percentage expected: 5% 
 
+This alcohol is still relatively high for a Czech pils (they're usually around 4.4%), but I sure won't complain!
+
 ## Primary Fermentation
 
 A fastbrew fermenter is used for this batch. Both primary and secondary fermentation should be able to be done in the same reservoir.

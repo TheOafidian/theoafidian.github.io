@@ -2,7 +2,7 @@ baseURL = "https://theoafidian.github.io/"
 languageCode = "en-us"
 title = "Homebrewing with the Oaf"
 theme = 'hugo-theme-ava'
-googleAnalytics = "G-EZC5P3VRZ4"
+googleAnalyticsID = "G-EZC5P3VRZ4"
 mainSections = "batches"
 enableEmoji = true
 

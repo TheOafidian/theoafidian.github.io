@@ -9,7 +9,7 @@ description: "A first try at recreating something resembling the legendary pils.
 
 ## Ingredients
 
-- Brewing water: the water from the faucet is too hard for this type of beer. Therefor the ion contents are dilluted by mixing it with distilled water in a 1/1 ratio.
+- Brewing water: the water from the faucet is too hard for this type of beer. Therefore the ion contents are dilluted by mixing it with distilled water in a 1/1 ratio.
 - 2 kg's of [Bohemian pilsner malt](https://brouwland.com/nl/mout/2043-bohemian-pilsner-mout-weyermann-3-5-ebc-5-kg.html)
 - [Saaz Hop pellets](https://brouwland.com/nl/hop/19623-hopkorrels-saaz-100-g-de.html).
 
@@ -54,23 +54,19 @@ A fastbrew fermenter is used for this batch. Both primary and secondary fermenta
 The brew had a large amount of green sludge (hop) that was left in the cooking pot. The amount of brew obtained in the end was less than the 10L expected (around 6L) due to evaporation.
 Therefore secondary fermentation (anaerobic) should be performed in a smaller vessel than the fastbrew recipient to prevent any oxidation.
 
-<!--
 ## Bottling
 
-- Specifig gravity measured:
-
+- Specifig gravity measured: 5% alcohol indeed
 - sanitization pump and bottles
 - priming sugar added (30g brown sugar) for carbonization
 - bottles filled by faucet from fastbrew, with minimal headspace
 - bottles were left for at least a week before carbonization was adequate
 
- ## Taste
-
+## Taste
+- Too bitter for a pilsner
+- Otherwise, nice color, feel and alcohol percentage.
 
 ## Recommendations future
 
-- Use bags for the hops to prevent sludge formation.
-- Create larger amount of brew, taking evaporation into account.
-- Find alternative way to cool down brew.
-
--->
+- Use hop bag, and be a little less generous with the hop.
+- Use a cooler, cooling takes way too long.

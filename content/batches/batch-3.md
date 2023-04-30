@@ -1,6 +1,6 @@
 ---
 title: "Beer Batch #3: Czech is back"
-date: 2023-04-30T212:11:23+01:00
+date: 2023-04-30T12:11:23+01:00
 draft: false
 description: "A second attempt to recreate a Czech pils."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mead Batch #1: Of the bees and the beers"
 date: 2023-04-22T16:13:20+01:00
-draft: false
+draft: true
 description: "A first try at brewing some honey beer"
 image: "https://images.pexels.com/photos/8400589/pexels-photo-8400589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 ---

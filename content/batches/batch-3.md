@@ -1,24 +1,33 @@
 ---
 title: "Beer Batch #3: Czech is back"
-date: 2023-04-30T12:11:23+01:00
 draft: false
+date: 2023-04-30
 description: "A second attempt to recreate a Czech pils."
 ---
 
-# New Hopping schedule
+# Return of the Czech
 
-[The previous recipe](https://theoafidian.github.io/batches/batch-2/) was followed for a batch of 10L, but the hopping schedule was adapted. The following schedule was used:
+[The previous recipe](https://theoafidian.github.io/batches/batch-2/) was followed for a batch of 10L, but the hopping schedule was adapted. 
+
+![the brewing kettle, with a brew-in-the-bag setup](/img/batch-3/brewing-kettle.jpg) )
+
+## New Hopping schedule
+
+The following hopping schedule is used:
 
 The water was brought to a boil before hopping.
 - 17g of hop was added at the start
 - 7 g of hop was added after 30 min
 - another 7 g was added after 45 min
 
-with a total cooking time of qn hour.
+with a total cooking time of an hour.
 
-### Cooling
+![The Saaz hop pellets and teh hop sock](/img/batch-3/hop-in-bag.jpg) )
 
-The brew was cooled to around 25°C, by letting the cooking pot stand in a bath of icewater for about an hour with the lid closed as to keep the chance of contamination events to a minimum.
+## Cooling
+
+The brew was cooled to around 20°C, by submersing a cooler in the cooking pot and letting cold water run trough it for about 15 minutes.
+
 <!--
 ### Gravity measurement
 

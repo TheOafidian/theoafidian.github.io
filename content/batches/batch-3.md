@@ -7,7 +7,7 @@ description: "A second attempt to recreate a Czech pils."
 
 # New Hopping schedule
 
-[The previous recipe] was followed for a batch of 10L, but the hopping schedule was adapted. The following schedule was used:
+[The previous recipe](https://theoafidian.github.io/batches/batch-2/) was followed for a batch of 10L, but the hopping schedule was adapted. The following schedule was used:
 
 The water was brought to a boil before hopping.
 - 17g of hop was added at the start

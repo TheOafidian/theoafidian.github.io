@@ -40,13 +40,11 @@ After 4 weeks fermentation, a cold crash was performed by placing the glass jar 
 - bottles filled by pump, with minimal headspace
 - bottles were left for at least a week before carbonization was adequate
 
-<!--## Taste
+## Taste 
+Crisp, acidic taste; but masked by sulphuric smell from primary fermentation. Likely too much inorganic phosphorous added with the yeast supplement. 
 
-Crisp, acidic taste with soft carbonization at one week and more usual carbonization after two. 
-Clear cider with a very small layer of sedimented yeast. Taste seems to age well on bottle. Hop taste is very subtle.
--->
 ## Recommendations future
 
-- Add extra N-source, eg: raisins
+- Different, organic yeast nutrition, eg: YDP (yeast extracts) 
 - Experiment with more flavours
 - Experiment with other yeast

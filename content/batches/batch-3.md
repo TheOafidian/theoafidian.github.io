@@ -9,7 +9,7 @@ description: "A second attempt to recreate a Czech pils."
 
 [The previous recipe](https://theoafidian.github.io/batches/batch-2/) was followed for a batch of 10L, but the hopping schedule was adapted. 
 
-![the brewing kettle, with a brew-in-the-bag setup](/img/batch-3/brewing-kettle.jpg) )
+![the brewing kettle, with a brew-in-the-bag setup](/img/batch-3/brewing-kettle.jpg)
 
 ## New Hopping schedule
 
@@ -22,7 +22,7 @@ The water was brought to a boil before hopping.
 
 with a total cooking time of an hour.
 
-![The Saaz hop pellets and teh hop sock](/img/batch-3/hop-in-bag.jpg) )
+![The Saaz hop pellets and teh hop sock](/img/batch-3/hop-in-bag.jpg)
 
 ## Cooling
 

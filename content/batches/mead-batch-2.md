@@ -35,11 +35,11 @@ Add lemons and tea while the brew is still hot.
 
 The brew was cooled to around 25°C, using a cooler.
 
-<!--### Gravity measurement
+### Gravity measurement
 
-- Specific gravity measured: 
-- Alcohol percentage expected: 
---> 
+- Specific gravity measured: 1.040 SG
+- Alcohol percentage expected: 5.2%
+
 ## Primary and Secondary Fermentation
 
 

@@ -29,8 +29,6 @@ The water was brought to a boil before hopping.
 
 with a total cooking time of an hour.
 
-![The Saaz hop pellets and the hop sock](/img/batch-3/hop-in-bag.jpg)
-
 ## Cooling
 
 The brew was cooled to around 20°C, by submersing a cooler in the cooking pot and letting cold water run trough it for about 15 minutes.

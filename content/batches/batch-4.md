@@ -1,7 +1,7 @@
 ---
 title: "Beer Batch #4: een pintje d'Abbey"
 draft: false
-date: 2023-04-30
+date: 2023-02-03
 description: "A second attempt to recreate a Czech pils."
 ---
 

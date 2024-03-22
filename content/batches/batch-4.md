@@ -1,7 +1,7 @@
 ---
 title: "Beer Batch #4: een pintje d'Abbey"
 draft: false
-date: 2023-02-03
+date: 2024-02-03
 description: "A second attempt to recreate a Czech pils."
 ---
 
@@ -9,12 +9,14 @@ description: "A second attempt to recreate a Czech pils."
 
 A simple abbey beer, augmented with vanilla infused oak chips. A batch of 5L was made with:
 
+{{% card recipe="Pintje d'Abbey" %}}
 - 1kg [Bohemian pilsner malt](https://brouwland.com/nl/mout/2043-bohemian-pilsner-mout-weyermann-3-5-ebc-5-kg.html) or any other pils malt, but I still had this around
 - 300g [Abbey malt](https://brouwland.com/en/malts/2063-abbey-malt-weyermann-40-50-ebc-1-kg.html)
 - 40g of Saaz hop (definetly try other hops, but again I still had this lying around) 
 - a teaspoon of Irish Moss
 - a packet of [M47 abbey yeast](https://brouwland.com/en/yeast-and-bacteria/1945-dried-brewing-yeast-belgian-abbey-m47-mangrove-jack-s-craft-series-10-g.html)
 - about 8g of Oak chips
+{{% /card %}}
 
 ## Hopping schedule
 

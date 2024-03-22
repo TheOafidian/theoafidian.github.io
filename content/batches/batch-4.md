@@ -33,14 +33,12 @@ with a total cooking time of an hour.
 
 The brew was cooled to around 20°C, by submersing a cooler in the cooking pot and letting cold water run trough it for about 15 minutes.
 
-<!--
 ### Gravity measurement
 
-- Specific gravity measured: 1.048
-- Alcohol percentage expected: 5% 
+- Specific gravity measured: 1.045
+- Alcohol percentage expected: 4.6% 
 
-This alcohol is still relatively high for a Czech pils (they're usually around 4.4%), but I sure won't complain!
--->
+This alcohol percentage is quite low for an abbey beer... (they're usually around 7%). Means we can drink more though :D
 
 ## Primary Fermentation
 

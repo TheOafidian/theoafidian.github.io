@@ -39,23 +39,21 @@ with a total cooking time of an hour 10 min.
 
 ## Cooling
 
-The brew was cooled to around 20°C, by submersing a cooler in the cooking pot and letting cold water run trough it for about 15 minutes.
+The brew was cooled to around 20°C, by submersing a cooler in the kettle and letting cold water run trough it for about 15 minutes.
 
-<!--
+
 ### Gravity measurement
 
-- Specific gravity measured: 1.048
-- Alcohol percentage expected: 5% 
-
-This alcohol is still relatively high for a Czech pils (they're usually around 4.4%), but I sure won't complain!
+- Specific gravity measured: 1.065
+- Alcohol percentage expected: 7.22% 
 
 ## Primary Fermentation
 
-A fastbrew fermenter is used for this batch. Both primary and secondary fermentation should be able to be done in the same reservoir.
+Primary fermentation is done in a glass carboy. The brew started bubbling heavily in the morning. 
 
-- sanitization fastbrewer, airlock and tools used
-- yeast pitched and waterlock placed
-
+## Secondary fermentation 
+Plantain is mixed and cooked prior to adding it to the brew. 
+<!--
 ## Bottling
 
 - Specifig gravity measured: 5% alcohol indeed
